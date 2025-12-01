@@ -22,8 +22,8 @@ title: Serdar A. Köroğlu Weblog
 email: serdar.koroglu@itu.edu.tr
 description: >- # this means to ignore newlines until "baseurl:"
   Analojiler ve farklı perspektifler sunmayı amaçlayan bir blog
-baseurl: "korogluser" # the subpath of your site, e.g. /blog
-url: https://web.itu.edu.tr # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: / # the subpath of your site, e.g. /blog
+url: "https://serdarkoroglu.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aserdark
 github_username:  aserdark
 # https://web.itu.edu.tr
